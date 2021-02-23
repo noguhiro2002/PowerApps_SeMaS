@@ -10,6 +10,8 @@ You can use/modify this program that is BSD-v3 license.
 BSD-v3なので、ご自由に改変し、お使いください。
 
 # Outline of the program
+It is simple.
+
 ![Outline](https://github.com/noguhiro2002/PowerApps_SeMaS/blob/main/describe_imgs/Slide2.PNG "Outline")
 
 
