@@ -1,6 +1,4 @@
 # PowerApps_SeMaS
-Seat management system of non-territorial office
-
 This is a seat "Seat management system of non-territorial office" using Microsoft PowerApps adn other Power platform sevices, which may be useful for tracking infected people with infectious diseases such as COVID-19.
 
 Microsoft PowerAppsを用いたフリーアドレスオフィスの席管理システムです。COVID-19など感染症の感染者追跡等に役立つかと思われます。
