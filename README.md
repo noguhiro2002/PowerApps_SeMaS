@@ -9,6 +9,15 @@ You can use/modify this program that is BSD-v3 license.
 
 BSD-v3なので、ご自由に改変し、お使いください。
 
+# History
+2021/04/18 Open ver.2.0. Changing points are
+ - Add function: Who's where.
+ - Add function: person can sit multiple seat.
+ - Improve process (reduce API counts): Remove PowerAutomate process. PowerApps writes directly for the SharePoint List.
+
+The previous version 1.0 is exist in ver1.0 folder.
+https://github.com/noguhiro2002/PowerApps_SeMaS/tree/main/ver1
+
 # Outline of the program
 It is simple.
 
@@ -26,7 +35,7 @@ Requre these software/services provided by Microsoft.
 
 以下のソフトウェアが使えること。
  - Microsoft Power Apps
- - Microsoft Power Automate
+ - (Microsoft Power Automate, only Ver.1.0)
  - Microsoft SharePoint
 
 
